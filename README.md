@@ -1,2 +1,2 @@
-# -p-t-si-projektek
+# epitesi-projektek
 Közműépítési projektek dokumentációja
